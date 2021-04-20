@@ -1,3 +1,4 @@
+// updated by Jenvyxu 2021/04/20
 class Promise2 {
   state = "pending";
   callbacks = [];
